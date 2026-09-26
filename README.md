@@ -9,4 +9,4 @@
 A simple personal CV webpage built using HTML and CSS.
 
 ## View the Webpage
-[View My CV Webpage](https://evonlg.github.io/EvonLG/GRANADEROSCV.html)
+[View My CV Webpage](https://evonlg.github.io/PersonalCV/GRANADEROSCV.html)
